@@ -184,6 +184,10 @@ h1 {
   font-size: 4.5em;
 }
 
+.hcenter {
+  text-align: center;
+}
+
 h1, .vcenter {
   font-weight: bold;
   text-align: center;
@@ -203,7 +207,7 @@ h1, .vcenter {
   transform: translate(0, -50%);
 }
 
-.vcenter h1 {
+.vcenter h1 h2{
   position: relative;
   top: auto;
   padding: 0;
